@@ -21,3 +21,8 @@
 
 
 ### 個人的練習（主にTEDTalk）
+
+link to site: https://furuhashilab.github.io/Katoyuka-Blog/
+
+Explore this data story...
+<iframe width="800" height="600" src="https://app.powerbi.com/view?r=eyJrIjoiMDI2ZTM0YTMtN2Q5NS00MDhiLWJkY2QtZGQxMTIzZTQzOWVjIiwidCI6IjM3ZGExMzAxLWNlYmMtNDk4ZS05OGFhLWY2NTljZGRjZGViOCJ9" frameborder="0" allowFullScreen="true"></iframe>
