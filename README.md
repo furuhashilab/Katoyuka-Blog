@@ -9,18 +9,23 @@
 ### 古橋研究室授業
 * 毎回の授業の活動 <https://github.com/gsc-aoyama/geomedia4gsc/issues/8>
 
-* 大和市大木市長のお話
+* 大和市大木市長のお話 <https://user-images.githubusercontent.com/416977/38940702-c9fda230-4365-11e8-8e7d-c301212fe799.png>
 
-* FIGカンファレンスにて
+* FIGカンファレンスにて <https://photos.app.goo.gl/jDnPd1awpzCi8JV39>
 
 ### グラグリットインターン
-* デジタルアーカイブ学会にて
-* 船橋市アクティブラーニングにて
+* デジタルアーカイブ学会にて<https://photos.app.goo.gl/WtSFeyprPqKKMY1Y9> <https://photos.app.goo.gl/pmMe7wubBppnnKtDA>
+
+* 船橋市アクティブラーニングにて<https://photos.app.goo.gl/ygcZjJAPbQrczCL66>
 
 ### 地球惑星連合にて
-
+<https://photos.app.goo.gl/51NX3Gry9gkLiuUd9>
 
 ### 個人的練習（主にTEDTalk）
+
+* <https://photos.app.goo.gl/AWj5wpCFKvoN7tMf7>
+
+* <https://photos.app.goo.gl/GTXH3DD8xQcnzS8r6>
 
 link to site: https://furuhashilab.github.io/Katoyuka-Blog/
 
