@@ -8,7 +8,6 @@
 ***
 
 ## 第1章
-1. [TEDとは](https://github.com/furuhashilab/www4katoyuka/blob/master/%E7%AC%AC1%E7%AB%A0.md)
 1. [TEDとは](./%E7%AC%AC1%E7%AB%A0.md)
 2. TEDxとは
 3. TEDxAoyamaGakuinUとは
