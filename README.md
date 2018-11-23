@@ -8,7 +8,7 @@
 ***
 
 ## 第1章
-1. [TEDとは] (https://github.com/furuhashilab/www4katoyuka/blob/master/%E7%AC%AC1%E7%AB%A0)
+1. [TEDとは](https://github.com/furuhashilab/www4katoyuka/blob/master/%E7%AC%AC1%E7%AB%A0)
 2. TEDxとは
 3. TEDxAoyamaGakuinUとは
 4. 本テーマを選択する理由
