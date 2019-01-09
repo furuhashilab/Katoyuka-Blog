@@ -157,7 +157,7 @@ TEDxコミュニティが年に一度行う大きなTEDxイベントの他に週
 | 14:50-16:00    | Session2 &Closing Session | スピーチ | 
 | 16:00-18:30    | レセプション | 交流会 |
 
-![アスタジオ平面図](https://photos.google.com/share/AF1QipMxj7kZtnHB1X8A-pkX2L_DNt_UNLKMsHLW60Rtk_AVvOYi6Jt2I3l8CjM-lJTDag/photo/AF1QipMH2KRrnTBN-5yM0WnM2-dZTot33CuBIt0QdIJe?key=V1FwY3ZMZm5TczJONWY4R0F2UFZfdUp4WWgxUm1R)
+![アスタジオ平面図](https://photos.app.goo.gl/dMRc2LeZewtYCGoy7)
 
 当日会場は
 * ホワイエ　受付
