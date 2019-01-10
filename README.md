@@ -26,7 +26,7 @@
 
 2 [考察](#2.考察)
 #### 5 [結論](#結論)
-#### 6 [参考文献](#)
+#### 6 [参考文献](#参考文献)
 ***
 ### 第1章　はじめに<a name="はじめに"></a>
 
@@ -483,7 +483,8 @@ Michel氏グラレコ
 * テーマも非常によかった。スピーカーそれぞれの背景を元に同じテーマについて話されており、気づきの多いイベントでした。青学卒業生ですが、このような取り組みをしていると初めて知り、ぜひこれからも応援したいと思いました。
 * アンラーンがテーマであるにも関わらず、スピーカーの中には、既存の理論や枠組みを説明するにとどまっている者もおり、アンラーンとは、ほど遠い内容であった。既存の理論をどのようにスピーカーが脱構築しているのか、聞きたかった。
 
-第4章 2.考察<a name="2.考察"></a>
+#### 第4章 2.考察<a name="2.考察"></a>
+
 各検証項目についてまとめると、施策1パンフレットに関しては以下の結果が出た。
 
 1. 配布予定のパンフレットに工夫をこらし、参加者が後からコンテンツを差し込み、やることがない時間をなくす。
@@ -542,7 +543,7 @@ Michel氏グラレコ
 
 ***
 
-*** 第5章 結論<a name="結論"></a>
+### 第5章 結論<a name="結論"></a>
 本研究を通して、TEDxイベントにおいてレセプション難民を減少させる方法をいくつかまとめることができた。参加者の中にはスピーカーと会話をすることにハードルを持つ人もいる。そのため運営側からスピーカーと話すきっかけを提供することは有効な手段の一つである。
 また同時に参加者同士共有の話題が存在することも他人と会話をすることへのきっかけの一つになりうる。
 またアンケート結果からもわかるように、TEDxに限らずレセプション難民になったことがある人の割合はおよそ5割存在する中で満足者が多いことからも共通の話題の提供、スピーカーとの会話の機会の提供は有効だとわかる。
@@ -553,4 +554,19 @@ Michel氏グラレコ
 
 上記したことを踏まえて全体的な今後の課題としては、TEDx以外のイベントへ参加した数が少なすぎるゆえに比較対象が少なすぎたことがあげられる。上記したようにTEDxにおいては共有の話題が存在している場合が多いが、他のイベントでは同じように共通の話題が存在しているのかはわかりかねる。
 こうした課題と同時にもう一つの課題は今回実施したアンケートにおいて「今までTEDxに限らずレセプション難民になった経験」の有無を聞いた一方で「今回のTEDxではレセプション難民になったか」の有無を失念していたことだ。次回のアンケート項目作成時の参考になることを期待する。
+
+*** 
+
+### 第6章　参考文献<a name="参考文献"></a>
+1. [団体紹介+イベント企画書](https://docs.google.com/presentation/d/1E5eD1gWlS-pQM6nVcQMuiRcJdTtcOvTNDD8HKYn0alk/edit?usp=sharing)
+2. [Our Organization TED](https://www.ted.com/about/our-organization)
+3. [Upcoming TED Conferences](https://ted2019.ted.com/?ted-tedconf)
+4. [TED Talk Usage Policy](https://www.ted.com/about/our-organization/our-policies-terms/ted-talks-usage-policy
+)
+5. [クリエイティブ・コモンズ・ライセンスとは](https://creativecommons.jp/licenses/)
+6. [What is a TEDx event?](https://www.ted.com/participate/organize-a-local-tedx-event/before-you-start/what-is-a-tedx-event)
+7. [Events types](https://www.ted.com/participate/organize-a-local-tedx-event/before-you-start/event-types)
+8. [Universty event](https://www.ted.com/participate/organize-a-local-tedx-event/before-you-start/event-types/university-event-type)
+9. [グラフィックレコーディング とは？](https://www.brush-go.com/method)
+10. [会社概要/Peatix](https://about.peatix.com/aboutus.html?hl=ja&force=jp)
 
