@@ -570,3 +570,6 @@ Michel氏グラレコ
 9. [グラフィックレコーディング とは？](https://www.brush-go.com/method)
 10. [会社概要/Peatix](https://about.peatix.com/aboutus.html?hl=ja&force=jp)
 
+*** 
+### 謝辞
+本研究を進めるにあたり指導教官の古橋大地教授、Peatix Japan株式会社の山宮徳晃氏（ノリさん）、TEDxHimiオーガナイザーの川向正明氏（マサさん）、TEDxAoyamaGakuinUのスタッフのみなさんをはじめ多くの方々より多大な助言を賜りました。厚く感謝を申し上げます。
